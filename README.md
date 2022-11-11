@@ -8,7 +8,7 @@ These examples were developed by Jiayi Xu during her internship with the Kitware
 
 It is covered by the MIT License:
 
-http://www.apache.org/licenses/LICENSE-2.0
+https://opensource.org/licenses/MIT
 
 The license file was added at revision [845d56a][commit-add-license] on 2022-08-29, but you may
 consider that the license applies to all prior revisions as well.
